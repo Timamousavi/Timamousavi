@@ -24,10 +24,7 @@
 </div>
 
 <hr style="border: none; height: 1px; background: #F4C2C2; margin: 2.5em 0;">
-### 📊 Github Stats
-<div>
-    <img height=263 src="https://github-readme-activity-graph.vercel.app/graph?username=timamousavi&theme=react-dark&layout=compact" alt="Contribution Graph" />
-</div>
+
 
 
 ### Areas of Focus
